@@ -16,7 +16,7 @@ body {
 
 h1 { 
      font-family: 'Montserrat, sans-serif'; 
-      font-size: 3rem;  
+      font-size: 3.5rem;  
       line-height: 1.5; 
        font-weight: 900;
     }
@@ -54,3 +54,17 @@ h1 {
         right: 30%;
       }
            
+
+
+
+#features {
+        position: relative;
+      }
+      
+.feature-title {
+        font-size: 1.5rem;
+      }
+  
+.feature-box {
+        padding: 4.5%;
+      }
