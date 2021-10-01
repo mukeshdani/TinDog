@@ -151,6 +151,11 @@ p {
   line-height: 1.5;
   }
 
+  #footer {
+    padding: 7% 15%;
+    text-align: center;
+  }
+
   @media (max-width: 1028px) {
 
     #title {
