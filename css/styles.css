@@ -138,6 +138,16 @@ p {
     padding: 3% 2%;
   }
 
+#cta {
+  background-color: #ff4c68;
+  color: #fff;
+  padding: 7% 15%;
+
+  }
+  .cta-heading {
+    
+
+  }
 
   @media (max-width: 1028px) {
 
