@@ -5,6 +5,10 @@ on: [push]
 jobs: 
     testing: 
         runs-on: ubuntu-latest
+        steps: 
+            - uses: actions/checkout@v4
 
+            - name: terraform init krne wala hu 
+              run: terraform init
        
 
