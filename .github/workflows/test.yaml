@@ -1,0 +1,19 @@
+name: Test Workflow
+
+on: [push]
+
+jobs: 
+    testing: 
+        runs-on: ubuntu-latest
+        steps: 
+            - uses: actions/checkout@v4
+
+            - uses: hashicorp/setup-terraform@v3
+
+            - name: terraform init krne wala hu
+              run: terraform init
+
+            - name: terraform init krne wala hu
+              run: terraform init
+       
+
