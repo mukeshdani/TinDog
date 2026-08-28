@@ -12,8 +12,5 @@ jobs:
 
             - name: terraform init krne wala hu
               run: terraform init
-
-            - name: terraform init krne wala hu
-              run: terraform init
        
 
